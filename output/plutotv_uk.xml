@@ -13753,6 +13753,11 @@ make itself known with dramatic effect</desc>
         <desc>Bella must choose between Edward and Jacob amid a string of mysterious killings and a malicious vampire's quest for revenge.</desc>
         <icon src="https://images.pluto.tv/series/66bc08df6134930013b96e0a/tile_1792221309534.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6401d85a49839300087b116c" start="20261031202200 +0000" stop="20261031223100 +0000">
+        <title>The Twilight Saga: Breaking Dawn Part 1</title>
+        <desc>A chain of events, set off by Edward and Bella's marriage, honeymoon and birth of a child, yields a shocking development for Jacob.</desc>
+        <icon src="https://images.pluto.tv/series/66bc08df6134930013b96e35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="65031534d545e9000881ed10" start="20261031142700 +0000" stop="20261031155100 +0000">
         <title>The Lodger: A Story of the London Fog</title>
         <desc>A quiet tenant at a London boarding house is suspected of being Jack the Ripper in Alfred Hitchcock's silent classic.</desc>
@@ -14478,6 +14483,11 @@ make itself known with dramatic effect</desc>
         <desc>Six players do battle in Atlantic City for the more than $800,000 first-place prize in the WPT Borgata Poker Open.</desc>
         <icon src="https://images.pluto.tv/series/5b1904f1c65a06426375ff92/tile_1787320082385.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5ad8d796e738977e2c31094a" start="20261031205544 +0000" stop="20261031233244 +0000">
+        <title>World Poker Tour: WPT Borgata Poker Open</title>
+        <desc>Six players do battle in Atlantic City for the more than $800,000 first-place prize in the WPT Borgata Poker Open.</desc>
+        <icon src="https://images.pluto.tv/series/5b1904f1c65a06426375ff92/tile_1787320082385.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60817936fd2d70000763d2b2" start="20261031143600 +0000" stop="20261031153100 +0000">
         <title>Wild At Heart: Meerly Evan</title>
         <desc>Evan lets the mischievous meerkats loose in Rosie's room to cause havoc. Rosie is devastated when they destroy an irreplaceable photograph of her mother and rages at Evan. She decides once and for all to go back to Bristol.</desc>
@@ -14949,6 +14959,11 @@ make itself known with dramatic effect</desc>
         <icon src="https://images.pluto.tv/series/6a96b83ce530723cda38dfc1/tile_1788262460998.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66f137cb483d460008ece053" start="20261031181500 +0000" stop="20261031210000 +0000">
+        <title>World Rugby Junior Championship</title>
+        <desc>Coverage of the World Rugby Junior Championship.</desc>
+        <icon src="https://images.pluto.tv/series/6888f1618eef10068f2d7c50/tile_1753805154648.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f137cb483d460008ece053" start="20261031210000 +0000" stop="20261031232000 +0000">
         <title>World Rugby Junior Championship</title>
         <desc>Coverage of the World Rugby Junior Championship.</desc>
         <icon src="https://images.pluto.tv/series/6888f1618eef10068f2d7c50/tile_1753805154648.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -20546,9 +20561,24 @@ the sun's glare often only visible at sunrise or sunset.</desc>
         <desc>After waking up from a coma in an abandoned Atlanta hospital, Officer Rick Grimes embarks on a survivalist adventure in a post-zombie apocalypse. Morgan and Duane, whom he meets along the way, help teach Rick the new rules for survival.</desc>
         <icon src="https://images.pluto.tv/series/6a79936e1b0eb41a7ec1173f/tile_1786352495464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6a1ea2d1eddc28f7681e518e" start="20261031210000 +0000" stop="20261031221500 +0000">
+        <title>The Walking Dead</title>
+        <desc>After waking up from a coma in an abandoned Atlanta hospital, Officer Rick Grimes embarks on a survivalist adventure in a post-zombie apocalypse. Morgan and Duane, whom he meets along the way, help teach Rick the new rules for survival.</desc>
+        <icon src="https://images.pluto.tv/series/6a79936e1b0eb41a7ec1173f/tile_1786352495464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6a1ea2d1eddc28f7681e518e" start="20261031221500 +0000" stop="20261031230700 +0000">
         <title>The Walking Dead</title>
         <desc>Rick unknowingly causes a group of survivors to be trapped by walkers. The group dynamic devolves from accusations to violence, as Rick must confront an enemy far more dangerous than the undead.</desc>
+        <icon src="https://images.pluto.tv/series/6a79936e1b0eb41a7ec1173f/tile_1786352495464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a1ea2d1eddc28f7681e518e" start="20261031221500 +0000" stop="20261031230700 +0000">
+        <title>The Walking Dead</title>
+        <desc>Rick unknowingly causes a group of survivors to be trapped by walkers. The group dynamic devolves from accusations to violence, as Rick must confront an enemy far more dangerous than the undead.</desc>
+        <icon src="https://images.pluto.tv/series/6a79936e1b0eb41a7ec1173f/tile_1786352495464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a1ea2d1eddc28f7681e518e" start="20261031230700 +0000" stop="20261031235900 +0000">
+        <title>The Walking Dead</title>
+        <desc>Rick makes a decision to go back to Atlanta to retrieve the bag of guns and save a man's life, whilst Lori and Shane must deal with the surprising return of someone they thought was dead.</desc>
         <icon src="https://images.pluto.tv/series/6a79936e1b0eb41a7ec1173f/tile_1786352495464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6a1ea2d1eddc28f7681e518e" start="20261031230700 +0000" stop="20261031235900 +0000">
@@ -22336,35 +22366,25 @@ the sun's glare often only visible at sunrise or sunset.</desc>
         <desc>Royal look-alike Iolaus stands in for Orestes at his coronation and wedding to prevent usurper Minos from taking the throne.</desc>
         <icon src="https://images.pluto.tv/series/6904845071d0752d87663021/tile_1761911551380.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e38b005c876cf730fcbf0f" start="20261031183600 +0000" stop="20261031193300 +0000">
-        <title>The Six Million Dollar Man</title>
-        <desc>Preparations for a Liberty Bell tour grind to a halt when a disgruntled scientist (Chuck Connors) steals the monument.</desc>
-        <icon src="https://images.pluto.tv/series/6904847b71d0752d876711a3/tile_1761908874222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68e38b005c876cf730fcbf0f" start="20261031173800 +0000" stop="20261031193800 +0000">
+        <title>Six Million Dollar Man</title>
+        <desc>Scientists save an astronaut by implanting him with high-tech devices.</desc>
+        <icon src="https://images.pluto.tv/series/691c81b9ac45429b53fa346d/tile_1763481749027.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e38b005c876cf730fcbf0f" start="20261031193300 +0000" stop="20261031202900 +0000">
-        <title>The Six Million Dollar Man</title>
-        <desc>Oscar suspects Steve's entertainer friend (Sonny Bono) of espionage; guests Susie Coelho, Jayne Kennedy.</desc>
-        <icon src="https://images.pluto.tv/series/6904847b71d0752d876711a3/tile_1761908874222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68e38b005c876cf730fcbf0f" start="20261031193800 +0000" stop="20261031213800 +0000">
+        <title>Six Million Dollar Man</title>
+        <desc>Scientists save an astronaut by implanting him with high-tech devices.</desc>
+        <icon src="https://images.pluto.tv/series/691c81b9ac45429b53fa346d/tile_1763481749027.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e38b005c876cf730fcbf0f" start="20261031202900 +0000" stop="20261031212500 +0000">
-        <title>The Six Million Dollar Man</title>
-        <desc>Steve journeys to Japan to help a friend locate a boy supposedly raised in the wilderness by wolves; guest John Fujioka.</desc>
-        <icon src="https://images.pluto.tv/series/6904847b71d0752d876711a3/tile_1761908874222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68e38b005c876cf730fcbf0f" start="20261031213800 +0000" stop="20261031233800 +0000">
+        <title>Six Million Dollar Man</title>
+        <desc>Scientists save an astronaut by implanting him with high-tech devices.</desc>
+        <icon src="https://images.pluto.tv/series/691c81b9ac45429b53fa346d/tile_1763481749027.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e38b005c876cf730fcbf0f" start="20261031212500 +0000" stop="20261031222200 +0000">
-        <title>The Six Million Dollar Man</title>
-        <desc>Steve and a test pilot (Leigh Christian) attempt to protect a royal pilot-trainee (Erik Estrada) and prevent a major war.</desc>
-        <icon src="https://images.pluto.tv/series/6904847b71d0752d876711a3/tile_1761908874222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68e38b005c876cf730fcbf0f" start="20261031222200 +0000" stop="20261031231800 +0000">
-        <title>The Six Million Dollar Man</title>
-        <desc>A potential threat to an airplane full of officials sends Steve in search of a stolen missile in a mountain lumber camp.</desc>
-        <icon src="https://images.pluto.tv/series/6904847b71d0752d876711a3/tile_1761908874222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68e38b005c876cf730fcbf0f" start="20261031231800 +0000" stop="20261101001500 +0000">
-        <title>The Six Million Dollar Man</title>
-        <desc>Steve gets involved in a pro-football mystery; guests Larry Csonka, Dick Butkus, Carl Weathers; directed by Lee Majors.</desc>
-        <icon src="https://images.pluto.tv/series/6904847b71d0752d876711a3/tile_1761908874222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68e38b005c876cf730fcbf0f" start="20261031233800 +0000" stop="20261101001500 +0000">
+        <title>Six Million Dollar Man</title>
+        <desc>Scientists save an astronaut by implanting him with high-tech devices.</desc>
+        <icon src="https://images.pluto.tv/series/691c81b9ac45429b53fa346d/tile_1763481749027.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68e38b6e20115bbaf9c91083" start="20261031191100 +0000" stop="20261031200400 +0000">
         <title>The Incredible Hulk</title>
@@ -26346,6 +26366,11 @@ the sun's glare often only visible at sunrise or sunset.</desc>
         <title>A Future on Stage: The Making of a Broadway Musical</title>
         <desc>In A Future on Stage: The Making of a Broadway Musical, the creators of Back to the Future fight to bring their beloved franchise to the stage.</desc>
         <icon src="https://images.pluto.tv/series/6908b8366538cde566dd19db/tile_1762180116214.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686fc8fe1889b4ad04604704" start="20261101034221 +0000" stop="20261101043424 +0000">
+        <title>Icons Unearthed: Arnold Schwarzenegger</title>
+        <desc>From tiny Thal, Austria to Hollywood, Arnold Schwarzenegger’s bodybuilding fame opens doors—but his accent threatens to shut them. Rejected by Hollywood brass, he finds a champion in John Milius for Conan the Barbarian.</desc>
+        <icon src="https://images.pluto.tv/series/6a6cc7ebde5e72394054db29/tile_1785513964564.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68b5a7b69ac85c428f54c441" start="20261031210357 +0000" stop="20261031233113 +0000">
         <title>The State of Things</title>

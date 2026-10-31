@@ -861,6 +861,11 @@
         <desc>Ils se font appeler les Borgs - des entités moitié organiques, moitié machines, dont le seul but est de conquérir et assimiler toutes les autres races.</desc>
         <icon src="https://images.pluto.tv/series/661e4c231ed2fc0013dc1233/tile_1776893577976.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261031114931 +0000" stop="20261031134131 +0000">
+        <title>Star Trek: Insurrection</title>
+        <desc>Découvrez les nouvelles aventures extraordinaires du Capitaine Jean-Luc Picard (Patrick Stewart) et de l'équipage de Next Generation dans ce nouveau joyau de la saga Star Trek(tm).</desc>
+        <icon src="https://images.pluto.tv/series/660a85a04ebaeb001397435d/tile_1779830641591.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6245ccd0c6cdb800074632e4" start="20261031071800 +0000" stop="20261031081500 +0000">
         <title>MacGyver: Le Testament de Harry</title>
         <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
@@ -1004,6 +1009,11 @@
     <programme channel="6671b26836a2f90008d9333c" start="20261031094428 +0000" stop="20261031113221 +0000">
         <title>Diane Femme Flic</title>
         <desc>Deux soeurs aussi différentes qu’on puisse l’être, l’une Sabine, dentiste, l’autre Clara, caissière dans un supermarché.. Est-ce à cause de Clara que Sabine est morte étranglée dans son cabinet, un matin où elle avait rendez-vous avec sa soeur ?</desc>
+        <icon src="https://images.pluto.tv/series/6720a848a88a190013614b1f/tile_1784820242634.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6671b26836a2f90008d9333c" start="20261031113221 +0000" stop="20261031131727 +0000">
+        <title>Diane Femme Flic</title>
+        <desc>Adrien Beaulieu fait un scandale à la maternité : il hurle qu’il est le père d’un enfant né sous X. L’hôpital refuse de lui laisser voir le bébé. Le lendemain, on découvre le cadavre de cet homme dans son appartement, assassiné</desc>
         <icon src="https://images.pluto.tv/series/6720a848a88a190013614b1f/tile_1784820242634.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="667d38a5ca74680008696392" start="20261031070227 +0000" stop="20261031073227 +0000">
@@ -2340,6 +2350,11 @@
         <title>Annihilation</title>
         <desc>À la suite d’une invasion extraterrestre punitive, le seul espoir de survie d’une mère et de son fils réside dans la découverte d’une vérité impensable.</desc>
         <icon src="https://images.pluto.tv/series/636df3873416c70013e5c4fd/tile_1788181652307.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a69ef53af63d000825e0ee" start="20261031113309 +0000" stop="20261031131209 +0000">
+        <title>Super Cyclone</title>
+        <desc>De forts vents menacent de se transformer en un super cyclone qui se dirige tout droit sur la côte est des États-Unis. Il promet de tout dévaster sur son passage. Un météorologue et un ingénieur pétrolier unissent leurs forces.</desc>
+        <icon src="https://images.pluto.tv/series/60e6f52502e103001360b536/tile_1786008603095.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65cce14060eb870008dbd003" start="20261031072724 +0000" stop="20261031075251 +0000">
         <title>Cheers</title>
@@ -6249,6 +6264,11 @@ Pour résoudre ces cas, Norin doit inventer de nouvelles techniques opératoires
         <title>Star Trek: Nemesis</title>
         <desc>Lorsque les Romulains attirent l'Entreprise chez eux pour la signature d'un traité de paix, le capitaine Picard est loin de se douter que le pouvoir est entre les mains d'un certain Shinzon, un clone de lui-même lorsqu'il était jeune.</desc>
         <icon src="https://images.pluto.tv/series/661e66671ed2fc0013de1f47/tile_1779837842470.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261031154211 +0000" stop="20261031180104 +0000">
+        <title>Star Trek Into Darkness</title>
+        <desc>2259. Starfleet, l'institution chargée de la défense de la Fédération des planètes unies, est menacée par un terroriste du nom de John Harisson2, qui vise à détruire la flotte et les valeurs qu'elle représente.</desc>
+        <icon src="https://images.pluto.tv/series/661e6844acbc680013926281/tile_1779837841931.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6245ccd0c6cdb800074632e4" start="20261031110400 +0000" stop="20261031120000 +0000">
         <title>MacGyver: Amères récoltes</title>
@@ -11764,6 +11784,11 @@ s’impose : le fief de la beat génération a t-il gardé son culte de la liber
         <desc>Quand un étranger non identifié détruit trois puissants croiseurs klingons, le capitaine James T. Kirk (William Shatner) retourne prendre les commandes du vaisseau remodelé, l'USS Enterprise™.</desc>
         <icon src="https://images.pluto.tv/series/6038aae0c9165e00145d4348/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261031203004 +0000" stop="20261031222731 +0000">
+        <title>Star Trek II: La Colère de Khan</title>
+        <desc>Au XXIIIe siècle, alors que l'USS Enterprise™ de la Fédération est en manœuvre, l'amiral James T. Kirk semble accepter le fait que cette inspection puisse être la dernière mission spatiale de sa carrière. Mais Khan est de retour.</desc>
+        <icon src="https://images.pluto.tv/series/661e6853acbc680013926652/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6245ccd0c6cdb800074632e4" start="20261031144800 +0000" stop="20261031154400 +0000">
         <title>MacGyver: Terre stérile</title>
         <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
@@ -12708,6 +12733,11 @@ s’impose : le fief de la beat génération a t-il gardé son culte de la liber
         <title>Never Back Down</title>
         <desc>A bullied high school newcomer (Sean Faris) learns the fighting arts from a savvy mentor (Djimon Hounsou) and proves his mettle at underground mixed martial arts contests.</desc>
         <icon src="https://images.pluto.tv/series/67ea393846d66c4aa09c0f1e/tile_1777913641927.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed1ff5c39700007e2204a" start="20261031193518 +0000" stop="20261031213418 +0000">
+        <title>Four Brothers</title>
+        <desc>Quatre frères adoptés se retrouvent pour enterrer la femme qui les a élevés. Lors des funérailles, les frères découvrent que leur mère a été tuée et vont chercher à se venger.</desc>
+        <icon src="https://images.pluto.tv/series/64ccd3308f763a0013b3fd91/tile_1768501446568.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed2d1c34c2300073bf02c" start="20261031152706 +0000" stop="20261031155120 +0000">
         <title>Daria</title>
@@ -13898,6 +13928,11 @@ s’impose : le fief de la beat génération a t-il gardé son culte de la liber
         <title>Sex List</title>
         <desc>Ally se lance dans une quête pour trouver le meilleur « ex » de sa vie à tout prix. Elle lit alors dans un magazine un article mettant en garde les personnes qui ont eu plus de 20 relations qu’elles ont déjà manqué leur chance de trouver le vrai amour.</desc>
         <icon src="https://images.pluto.tv/series/606d73dba224c9001bb9488e/tile_1792585460448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60812fc8539963000707d1e1" start="20261031200341 +0000" stop="20261031215741 +0000">
+        <title>Welcome Back</title>
+        <desc>Un militaire de renom retourne sur les terres ou il a connu les plus grands succes de sa carriere. Alors qu'il renoue des liens avec un amour de jeunesse, il tombe contre toute attente sous le charme d'une militaire de l'Air Force qu'on lui a assigné.</desc>
+        <icon src="https://images.pluto.tv/series/6062dc29a224c9001bb827e6/tile_1779487206218.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="611e6a9b4bb5790007a6f0f8" start="20261031152925 +0000" stop="20261031155344 +0000">
         <title>Sherlock Holmes in the 22nd Century</title>
@@ -18560,6 +18595,11 @@ fait la connaissance de Mehmet ; il se rend ensuite dans la mosquée Süleymani
         <desc>Professeure d'anglais à Tokyo, Margaret cherche un sens à sa vie. La jeune femme croise le chemin de Kazu, un Yakuza dont elle tombe amoureuse malgré le danger et la tradition qui entravent leurs chances d'être ensemble…</desc>
         <icon src="https://images.pluto.tv/series/6a831f20099657513d8b05a6/tile_1786978081160.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62f3e2d000418d00070f7dbc" start="20261031234313 +0000" stop="20261101012213 +0000">
+        <title>Undercover Punch and Gun</title>
+        <desc>Wu, policier infiltré au sein d’un réseau de méthamphétamine, doit s'associer à une bande hétéroclite pour faire tomber un énorme trafic de drogue.</desc>
+        <icon src="https://images.pluto.tv/series/638868081fad0c0013d33b52/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62f3ece7b09fd6000783bfb9" start="20261031192358 +0000" stop="20261031194458 +0000">
         <title>Un Gars Une Fille: Emménagent (2) /  Dans la salle de bain (1) /  Au marathon</title>
         <desc>Emménagent (2) /  Dans la salle de bain (1) /  Au marathon</desc>
@@ -19169,6 +19209,11 @@ fait la connaissance de Mehmet ; il se rend ensuite dans la mosquée Süleymani
         <title>Frankie et Johnny</title>
         <desc>Love story moderne ou lui (Al Pacino) travaille dans un restaurant grec apres un bref sejour en prison et elle (Michelle Pfeiffer), serveuse dans le meme restaurant, refuse toute relation sentimentale...</desc>
         <icon src="https://images.pluto.tv/series/602fdfb6f2c1bd001af2ba1c/tile_1784102762774.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20261031233845 +0000" stop="20261101012845 +0000">
+        <title>48 Heures</title>
+        <desc>Un inspecteur de police doit retrouver un tueur. Ce dernier est à la recherche d'un butin. Le policier fait libérer Hammond, un gangster excentrique, qui connait l'existence du magot.</desc>
+        <icon src="https://images.pluto.tv/series/6020f01287be07001a2a06ca/tile_1785414601654.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8edad922b10b000753bc37" start="20261031190100 +0000" stop="20261031195300 +0000">
         <title>Dossiers FBI: Résistance extrême</title>
