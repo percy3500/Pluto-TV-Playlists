@@ -25,8 +25,22 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Restore movie metadata cache
+        uses: actions/cache/restore@v4
+        with:
+          path: output/*.cache
+          key: plutotv-vod-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            plutotv-vod-${{ runner.os }}-
+
       - name: Run scraper
         run: node index.js
+
+      - name: Save movie metadata cache
+        uses: actions/cache/save@v4
+        with:
+          path: output/*.cache
+          key: plutotv-vod-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
 
       
       - name: Commit files
